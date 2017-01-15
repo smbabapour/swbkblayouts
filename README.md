@@ -1,5 +1,5 @@
 # swbkblayouts
-A short and simple script to swith between 'us' and 'ir' keyborad layouts.
+A short and simple script to switch between 'us' and 'ir' keyborad layouts.
 
 ### How to use it
 
